@@ -1,4 +1,4 @@
-# Certificate Generator
+# Certificate Generator Workflow Correction
 
 > A flexible certificate-generation prototype for creating, customizing, and generating certificates at scale.
 
