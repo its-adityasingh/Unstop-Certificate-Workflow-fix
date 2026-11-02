@@ -8,7 +8,7 @@ This project was developed as a proof-of-concept after identifying limitations i
 
 ## Overview
 
-The Certificate Generator provides an end-to-end workflow for creating personalized certificates for events, hackathons, competitions, workshops, internships, volunteering programs, and other large-scale activities.
+The Certificate Generator provides an end-to-end workflow for creating personalized certificates for events, hackathons, competitions, workshops, internships, volunteering programs and other large-scale activities.
 
 The prototype is designed around a simple four-step process:
 
